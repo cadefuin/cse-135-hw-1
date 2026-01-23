@@ -11,7 +11,7 @@ password: YOUareAWESOME:)
 ## [Link to Website](https://timmyfanclub.site/)
 
 ## Auto Deploy Setup
-
+The Auto Deploy Setup uses a post receive hook that allows for any changes on our local machine to be pushed to the server with the right verifications(password). In doing so, instead of editing directly on the server, we can instead clone the github repo, make local edits and then push to both the github repo and our server in which our site will see changes based on our edits.
 
 ## Site Login
 username: grader
