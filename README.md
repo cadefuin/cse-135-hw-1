@@ -36,27 +36,3 @@ SecServerSignature “Tecmint_Web”
 ```
 
 Finally, we restarted the web server using `$ sudo systemctl restart apache2`
-
-![[screenshots/initial-index.jpg]]
-
-![[screenshots/modified-index.jpg]]
-
-![[screenshots/validator-initial.jpg]]
-
-![[screenshots/vhosts-verify.jpg]]
-
-![[screenshots/SSL-verify.jpg]]
-
-![[screenshots/github-deploy.gif]]
-
-![[screenshots/php-verification.jpg]]
-
-![[screenshots/compression-verify.jpg]]
-
-![[screenshots/header-verify.jpg]]
-
-![[screenshots/error-page.jpg]]
-
-![[screenshots/log-verification.jpg]]
-
-![[screenshots/report-verification.jpg]]
